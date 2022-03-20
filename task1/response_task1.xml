@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<Response>
+	<decision>
+		<clientNumber>111</clientNumber>
+		<DecisionType>SMS</DecisionType>
+		<smsType>1</smsType>
+		<smsText>На 2021-12-21 по контракту 11111 образовалась просрочка в размере 1110 р</smsText>
+		<decisionDate>2021-12-21</decisionDate>	
+	</decision>
+	<decision>
+		<clientNumber>222</clientNumber>
+		<DecisionType>SMS</DecisionType>
+		<smsType>2</smsType>
+		<smsText>Напоминаем о предстоящем платеже по контракту 33333 в размере 1001 р</smsText>
+		<decisionDate>2021-12-21</decisionDate>	
+	</decision>
+	<decision>
+		<clientNumber>222</clientNumber>
+		<DecisionType>SMS</DecisionType>
+		<smsType>1</smsType>
+		<smsText>На 2021-12-21 по контракту 44444 образовалась просрочка в размере 1000 р</smsText>
+		<decisionDate>2021-12-21</decisionDate>	
+	</decision>
+</Response>
