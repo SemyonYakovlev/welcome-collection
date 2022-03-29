@@ -37,7 +37,7 @@
 			<daysOverdue>0</daysOverdue>
 			<totalOverdue>0</totalOverdue>
 			<nextPayment>
-				<nextPaymentDate>2021-12-31</nextPaymentDate>
+				<nextPaymentDate>2021-12-26</nextPaymentDate>
 				<nextPaymentSum>1001</nextPaymentSum>
 			</nextPayment>
 		</contract>
